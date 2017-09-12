@@ -1,8 +1,8 @@
 # Python crud operation:
-  * python 3.5 above 
- 
+
 # Technologies used:
   * pyCharm IDE
+  * python 3.5 above 
   
 # Author:
   * Kumaresan Perumal
